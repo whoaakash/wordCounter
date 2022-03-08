@@ -1,0 +1,21 @@
+body {
+  padding: 50px 100px;
+}
+h2 {
+  text-align: center;
+  background-color: lightblue;
+  padding: 10px;
+  margin: 0;
+}
+textarea {
+  width: 99.3%;
+}
+p {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  margin: -4px;
+}
